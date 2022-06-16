@@ -14,7 +14,7 @@
 		<div class="row">
 			<div class="col-4">
 				<h3>Publish anywhere</h3>
-				<p>With Haxe, you can easily build cross-platform tools targeting all the mainstream platforms natively.</p>
+				<p>With Haxe, you can build cross-platform tools targeting all the mainstream platforms natively.</p>
 			</div>
 			<!--<div class="col-1">&nbsp;</div>-->
 			<div class="col-8 logos">
